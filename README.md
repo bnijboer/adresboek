@@ -1,5 +1,5 @@
 # adresboek
-Project om behendig te worden met CSS flexbox.
+Project to practice with CSS flexbox.
 
 https://bnijboer.github.io/adresboek/
 
